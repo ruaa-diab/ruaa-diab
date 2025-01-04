@@ -21,6 +21,8 @@ A Computer Science student from Palestine with a strong interest in Data Science
 ## IDE Stack
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
 ## What I'm Currently Working On  
 * 🔭 Data Analysis Projects using Python and Pandas  
 * 🌱 Software Development using Java  
