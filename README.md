@@ -33,13 +33,15 @@ A Computer Science student from Palestine with a strong interest in Data Science
 
 ## Recent Projects
 
-| Project                          | Description                                                                                     | Tech Stack              |
-|----------------------------------|-----------------------------------------------------------------------------------------------|-------------------------|
-| **Food Price Analysis**          | - Analyzed correlation between food prices and political events in Palestine<br>- Implemented data visualization and statistical analysis<br>- Created interactive dashboards for price trend analysis | Python, Pandas, Matplotlib |
-| **Chocolate Factory Management System** | - Designed comprehensive database schema for production tracking<br>- Implemented inventory management system<br>- Developed sales and order processing modules | Java, SQL               |
-| **Movie Management System**      | - Built robust movie cataloging system<br>- Implemented search and filter functionality<br>- Developed user rating and review system | Java                    |
-| **Library Management System**    | - Created complete library resource tracking system<br>- Implemented borrowing and return workflows<br>- Developed user management system | Java                    |
-| **University System**            | - Developed student and course management modules<br>- Implemented grade tracking system<br>- Created faculty management features | Java                    |
+| Project                          | Description                                                             | Tech Stack              |
+|-----------------------------------|-------------------------------------------------------------------------|-------------------------|
+| **Food Price Analysis**           | - Analyzed the correlation between food prices and political events<br>- Developed visualizations to represent price trends | Python, Pandas, Matplotlib |
+| **Chocolate Factory Management** | - Designed a database schema for tracking production and inventory<br>- Implemented an order and sales management system | Java, JavaFX, SQL       |
+| **Movie Management System**       | - Built a comprehensive movie catalog system<br>- Implemented search, filter, and review features for users | Java, JavaFX            |
+| **Library Management System**     | - Developed a system for managing library resources<br>- Implemented a borrowing and return tracking system | Java                    |
+| **University System**             | - Developed modules for student and course management<br>- Implemented grade tracking and faculty management | Java, JavaFX            |
+| **Flight Management System**      | - Managed flight and passenger information<br>- Integrated file imports and operations handling | Java, JavaFX             |
+          |
 
 
 ## 📫 How to reach me:
