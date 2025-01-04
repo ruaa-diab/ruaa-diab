@@ -1,7 +1,6 @@
 # Hi 👋, I'm Ruaa Diab
 
-A passionate Computer Science student from Palestine, focusing on Data Analysis and Software Development. I love building systems and analyzing data to derive meaningful insights.
-
+A Computer Science student from Palestine with a strong interest in Data Science, Software Development, Web Development, and creating well-designed solutions. I enjoy building systems, analyzing data, and developing clean, efficient designs that solve real-world problems.
 ## Programming Language Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
